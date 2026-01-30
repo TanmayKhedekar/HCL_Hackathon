@@ -1,0 +1,15 @@
+# Virtual environment
+henv/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data & models
+data/
+model/
+
+# OS
+Thumbs.db
+.DS_Store
