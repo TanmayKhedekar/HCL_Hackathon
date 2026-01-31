@@ -1,0 +1,11 @@
+# Virtual environment (DO NOT COMMIT)
+henv/
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
